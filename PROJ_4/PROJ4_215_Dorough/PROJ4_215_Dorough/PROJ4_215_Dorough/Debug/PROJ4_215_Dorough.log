@@ -1,0 +1,4 @@
+﻿  SOLdriver.cpp
+C:\Users\riley\source\repos\PROJ4_215_Dorough\PROJ4_215_Dorough\book.h(74,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+  PROJ4_215_Dorough.vcxproj -> C:\Users\riley\source\repos\PROJ4_215_Dorough\Debug\PROJ4_215_Dorough.exe
