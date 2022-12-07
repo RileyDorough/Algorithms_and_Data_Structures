@@ -1,0 +1,4 @@
+﻿  DTBSTMain.cpp
+C:\Users\riley\source\repos\PROJ2_215_Dorough\PROJ2_215_Dorough\book.h(74,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+  PROJ2_215_Dorough.vcxproj -> C:\Users\riley\source\repos\PROJ2_215_Dorough\Debug\PROJ2_215_Dorough.exe
